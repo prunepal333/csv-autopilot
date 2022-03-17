@@ -1,0 +1,14 @@
+[
+    {
+        "delimiter": ",",
+        "has_header": false,
+        "header_map": ["id", "northing", "easting", "elevation"],
+        "path": "input.csv"
+    },
+    {
+        "delimiter": "\t",
+        "has_header": true,
+        "header_map": ["S.N.", "Northing", "Easting", "Elevation"],
+        "path": "output.csv"
+    }
+]
